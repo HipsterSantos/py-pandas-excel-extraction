@@ -1,0 +1,8 @@
+1- consume data from csv file 
+2-consuming data from xlsx file 
+
+3-create a streaming channel to provide data from csv file 
+4-create a streaming channel to provide data from xlsx file 
+
+5- use pandas to properly deal with those files 
+6- both csv and xlsx
